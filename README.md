@@ -1,1 +1,1 @@
-# tmp_FedSCL
+python train.py
